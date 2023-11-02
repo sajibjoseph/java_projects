@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=PirateShip
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PirateShip\ here.\r\n\ \r\n\ @author\ (Mondol,\ Sajib\ Joseph)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ captain
+comment1.target=PirateShip(java.lang.String,\ ImprovedPirate)
+comment2.params=
+comment2.target=int\ getNumPirateCrew()
+comment3.params=pirate
+comment3.target=void\ addPirate(ImprovedPirate)
+comment4.params=
+comment4.target=void\ removePirate()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

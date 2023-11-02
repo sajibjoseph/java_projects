@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Weapon
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Weapon\ here.\r\n\ \r\n\ @author\ (Mondol,\ Sajib\ Joseph)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ minDamage\ maxDamage
+comment1.target=Weapon(java.lang.String,\ int,\ int)
+comment2.params=minDamage
+comment2.target=void\ setminDamage(int)
+comment3.params=maxDamage
+comment3.target=void\ setmaxDamage(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=int\ getDamage()
+numComments=6

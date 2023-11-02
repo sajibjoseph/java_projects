@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ImprovedPirate
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pirate\ here.\r\n\ \r\n\ @author\ (Mondol,\ Sajib\ Joseph)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ health\ doubloons
+comment1.target=ImprovedPirate(java.lang.String,\ int,\ int)
+comment2.params=health
+comment2.target=void\ setHealth(int)
+comment3.params=doubloons
+comment3.target=void\ setDoubloons(int)
+comment4.params=weapon
+comment4.target=void\ setWeapon(Weapon)
+comment5.params=other
+comment5.target=void\ attack(ImprovedPirate)
+comment6.params=
+comment6.target=int\ getHealth()
+comment7.params=doubloons
+comment7.target=int\ getDoubloons(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
